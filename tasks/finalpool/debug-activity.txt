@@ -1,0 +1,3 @@
+# Activity Logger
+
+A task to monitor and record user activities.
